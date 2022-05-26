@@ -21,8 +21,8 @@ Projeto **NBA Memory Game**, feito com a finalidade de práticar e aprofundar me
 
 <h3 id="acessar-projeto">📁 Acessar Projeto</h3>
 
-◽ <a href="(https://github.com/FilipeLeoni/NBA-Memory-Game)">Acessar</a>🔗 o código fonte pelo GitHub. <br>
-◽ <a href="(https://codeload.github.com/FilipeLeoni/NBA-Memory-Game/zip/refs/heads/main)">Download</a>🔗 do código fonte<br>
+◽ <a href="https://github.com/FilipeLeoni/NBA-Memory-Game">Acessar</a>🔗 o código fonte pelo GitHub. <br>
+◽ <a href="https://codeload.github.com/FilipeLeoni/NBA-Memory-Game/zip/refs/heads/main">Download</a>🔗 do código fonte<br>
 
 
 <h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
